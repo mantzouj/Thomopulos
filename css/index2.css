@@ -89,6 +89,7 @@ header1 {
     margin: 0 auto;
     width: 1080px;
   background: url("homepage.jpg") no-repeat top center;
+  background-size: 85%;
 }
 
 
@@ -159,6 +160,9 @@ header1 #search { background: url("../images/inputbox.png") no-repeat scroll lef
     width: 22px;
 }
 
+#test {
+    padding-top: 20px;
+}
 
 #content {
     
